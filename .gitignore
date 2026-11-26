@@ -1,0 +1,19 @@
+# Fichiers de compilation
+build/
+cmake-build-*/
+*.o
+*.a
+*.so
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Système
+.DS_Store
+Thumbs.db
